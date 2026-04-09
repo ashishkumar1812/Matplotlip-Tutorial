@@ -21,6 +21,8 @@ This repository contains my hands-on practice and learning notebooks for **Matpl
 * Using markers (`Markers.png`)
 * Improving visual appearance of graphs
 
+![image alt](https://github.com/ashishkumardata/Matplotlip-Tutorial/blob/ab9ced0be2ddd9b3740bf3bbd1736cbcace100b1/Image/1.png)
+
 ---
 
 ### 🏷️ Labels & Grid
@@ -28,6 +30,8 @@ This repository contains my hands-on practice and learning notebooks for **Matpl
 * Adding titles and axis labels
 * Customizing fonts and styles
 * Adding and styling grids
+
+![image alt](https://github.com/ashishkumardata/Matplotlip-Tutorial/blob/ab9ced0be2ddd9b3740bf3bbd1736cbcace100b1/Image/2.png)
 
 ---
 
@@ -37,17 +41,28 @@ This repository contains my hands-on practice and learning notebooks for **Matpl
 
   * Creating and customizing bar graphs
 
+![image alt](https://github.com/ashishkumardata/Matplotlip-Tutorial/blob/ab9ced0be2ddd9b3740bf3bbd1736cbcace100b1/Image/3.png)
+
+
 * **Pie Charts**
 
   * Representing categorical data visually
 
+![image alt](https://github.com/ashishkumardata/Matplotlip-Tutorial/blob/ab9ced0be2ddd9b3740bf3bbd1736cbcace100b1/Image/4.png)
+
+
 * **Scatter Plots**
 
   * Visualizing relationships between variables
+ 
+![image alt](https://github.com/ashishkumardata/Matplotlip-Tutorial/blob/ab9ced0be2ddd9b3740bf3bbd1736cbcace100b1/Image/5.png)
+
 
 * **Histograms**
 
   * Understanding data distribution
+
+![image alt](https://github.com/ashishkumardata/Matplotlip-Tutorial/blob/ab9ced0be2ddd9b3740bf3bbd1736cbcace100b1/Image/6.png)
 
 ---
 
@@ -57,6 +72,8 @@ This repository contains my hands-on practice and learning notebooks for **Matpl
 
   * Creating multiple plots in one figure
   * Layout management
+
+![image alt](https://github.com/ashishkumardata/Matplotlip-Tutorial/blob/ab9ced0be2ddd9b3740bf3bbd1736cbcace100b1/Image/7.png)
 
 ---
 
